@@ -1,4 +1,4 @@
 require './hello'
 
 
-run sinatra::Application
+run Sinatra::Application
